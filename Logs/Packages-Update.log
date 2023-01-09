@@ -1,0 +1,9 @@
+
+=== Tue Jan  3 19:01:43 2023
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were updated:
+  com.unity.collab-proxy from version 1.15.18 to 1.17.7
+  com.unity.ide.rider from version 3.0.15 to 3.0.16
